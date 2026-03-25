@@ -8,11 +8,18 @@
 
 ## About This Repository
 
-This repository contains all projects, exercises, and analysis work completed for **MGT 8180 — Sustainable Management Analytics** as part of my MBA program.
+This repository contains two projects and analysis work completed for 
+**MGT 8180 — Sustainable Management Analytics** as part of my MBA program 
+at **Georgia State University (GSU)**.
 
-The course focuses on using data analytics tools to support sustainable business decision-making. Projects cover descriptive statistics, predictive modeling, data visualization, and business insights using real-world datasets.
+- 🛍️ **Individual Project** — Bag Tax Data Analysis (Data was given by the Professor)
+- 🚗 **Group Project** — Toyota Sustainability & Circular Economy Analysis
 
-## Tools & Technologies
+The course focuses on using data analytics tools to support sustainable 
+business decision-making, covering descriptive statistics, predictive 
+modeling, data visualization, and business insights using real-world datasets.
+
+## Tools & Technologies are considered to be used:
 
 | Tool | Purpose |
 |------|---------|
@@ -26,8 +33,7 @@ The course focuses on using data analytics tools to support sustainable business
 
 
 
-
-> Not: *More projects will be added throughout the semester*
+> Not: *More projects might be added throughout the semester*
 
 ---
 
@@ -48,6 +54,7 @@ The course focuses on using data analytics tools to support sustainable business
 **Osman Fatih Karaca**
 MBA Student
 - GitHub: [@osmanfatihkaraca](https://github.com/osmanfatihkaraca)
+- Others are waited for providing their insight on Toyota Project
 
 ---
 
