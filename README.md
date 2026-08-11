@@ -53,7 +53,7 @@ modeling, data visualization, and business insights using real-world datasets.
 
 **Osman Fatih Karaca**
 MBA Student
-- GitHub: [@osmanfatihkaraca](https://github.com/osmanfatihkaracausa-svg)
+- GitHub: [@osmanfatihkaraca](https://github.com/osmanfatihkaraca)
 
 
 ---
