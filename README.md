@@ -1,4 +1,4 @@
-# MGT 8180 — Sustainable Management Analytics
+# Sustainable Management Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-green?logo=microsoft-excel)
